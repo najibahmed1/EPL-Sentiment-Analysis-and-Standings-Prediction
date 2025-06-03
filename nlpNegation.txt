@@ -1,0 +1,189 @@
+REGEX:\w+n't
+REGEX:\w+n't all that
+REGEX:\w+n't that
+REGEX:\w+n\'t all that
+REGEX:\w+n\'t that
+CLASSIFIER:absence of
+REGEX:ain&\#[0-9]+;t
+REGEX:ain&amp;\#[0-9]+;t
+CLASSIFIER:ain't
+REGEX:ain\'t
+CLASSIFIER:aint
+CLASSIFIER:ain’t
+CLASSIFIER:am never
+CLASSIFIER:am not
+CLASSIFIER:are never
+CLASSIFIER:are not
+CLASSIFIER:aren't
+REGEX:aren\'t
+CLASSIFIER:arent
+CLASSIFIER:arent all that
+CLASSIFIER:aren’t
+CLASSIFIER:barely
+CLASSIFIER:can never
+CLASSIFIER:can not
+REGEX:can&\#8217;t
+REGEX:can&\#[0-9]+;t
+REGEX:can&amp;\#[0-9]+;t
+CLASSIFIER:can't
+CONCEPT::can't see
+CLASSIFIER:can?t
+REGEX:can\'t
+REGEX:can\'t see
+CLASSIFIER:cannot
+CLASSIFIER:cant
+CLASSIFIER:can’t
+CLASSIFIER:could never
+CLASSIFIER:could not
+CLASSIFIER:could not have
+REGEX:couldn&\#[0-9]+;t
+REGEX:couldn&amp;\#[0-9]+;t
+CLASSIFIER:couldn't
+REGEX:couldn\'t
+CLASSIFIER:couldnt
+CLASSIFIER:couldn’t
+CLASSIFIER:did not
+CLASSIFIER:did not have
+REGEX:didn&\#8217;t
+REGEX:didn&\#[0-9]+;t
+REGEX:didn&amp;\#[0-9]+;t
+CLASSIFIER:didn't
+CLASSIFIER:didn't have
+REGEX:didn\'t
+CLASSIFIER:didnt
+CLASSIFIER:didn’t
+CLASSIFIER:dnt
+CLASSIFIER:do not
+CLASSIFIER:does not
+REGEX:doesn&\#[0-9]+;t
+REGEX:doesn&amp;\#[0-9]+;t
+CLASSIFIER:doesn't
+REGEX:doesn\'t
+CLASSIFIER:doesnt
+CLASSIFIER:doesn’t
+REGEX:don&\#8217;t
+REGEX:don&\#[0-9]+;t
+REGEX:don&amp;\#[0-9]+;t
+CLASSIFIER:don't
+REGEX:don't
+CLASSIFIER:don't have to
+REGEX:don\'t
+CLASSIFIER:dont
+CLASSIFIER:dont have to
+CLASSIFIER:don’t
+CLASSIFIER:had not
+CLASSIFIER:hadn't
+REGEX:hadn\'t
+CLASSIFIER:hadnt
+CLASSIFIER:hardly
+CLASSIFIER:has not
+CLASSIFIER:hasn't
+REGEX:hasn\'t
+CLASSIFIER:hasnt
+CLASSIFIER:have not
+REGEX:haven&\#[0-9]+;t
+REGEX:haven&amp;\#[0-9]+;t
+CLASSIFIER:haven't
+REGEX:haven\'t
+CLASSIFIER:havent
+CLASSIFIER:haven’t
+CLASSIFIER:is not
+CLASSIFIER:isn't
+REGEX:isn\'t
+CLASSIFIER:isnt
+CLASSIFIER:isn’t
+CLASSIFIER:lack of
+CLASSIFIER:less
+CLASSIFIER:might not
+CLASSIFIER:mightn't
+REGEX:mightn\'t
+CLASSIFIER:mightnt
+CLASSIFIER:musn't
+REGEX:musn\'t
+CLASSIFIER:musnt
+CLASSIFIER:must not
+CLASSIFIER:mustn't
+REGEX:mustn\'t
+CLASSIFIER:mustn’t
+CLASSIFIER:never
+CLASSIFIER:never am
+CLASSIFIER:never amount to any
+CLASSIFIER:never are
+CLASSIFIER:never can
+CONCEPT:never cease@
+CLASSIFIER:never could
+CLASSIFIER:never ever
+CLASSIFIER:never going to
+CLASSIFIER:never had
+CLASSIFIER:never had any
+CLASSIFIER:never is
+CLASSIFIER:never thought of
+CLASSIFIER:never was
+CLASSIFIER:never will
+CLASSIFIER:never would
+CLASSIFIER:never would have
+CLASSIFIER:no chance of
+CLASSIFIER:no longer
+CLASSIFIER:no one can
+CLASSIFIER:no-one can
+CLASSIFIER:nobody can
+CLASSIFIER:non
+CLASSIFIER:non-
+CLASSIFIER:not
+CONCEPT:not :Adv all that
+CONCEPT:not :Det
+CLASSIFIER:not all
+CLASSIFIER:not all that
+CLASSIFIER:not at all
+CLASSIFIER:not exactly the most
+CLASSIFIER:not going to
+CLASSIFIER:not much
+CLASSIFIER:not much more
+CLASSIFIER:not quite as
+CLASSIFIER:not really
+CLASSIFIER:not so
+CLASSIFIER:not very
+CLASSIFIER:rarely
+CLASSIFIER:seldom
+CLASSIFIER:should not
+REGEX:shouldn&\#[0-9]+;t
+REGEX:shouldn&amp;\#[0-9]+;t
+CLASSIFIER:shouldn't
+REGEX:shouldn\'t
+CLASSIFIER:shouldnt
+CLASSIFIER:shouldn’t
+CLASSIFIER:unlikely to
+CLASSIFIER:warn't
+CLASSIFIER:was not
+REGEX:wasn&\#[0-9]+;t
+REGEX:wasn&amp;\#[0-9]+;t
+CLASSIFIER:wasn't
+CLASSIFIER:wasn't as
+REGEX:wasn\'t
+CLASSIFIER:wasnt
+CLASSIFIER:were not
+CLASSIFIER:weren't
+REGEX:weren\'t
+CLASSIFIER:werent
+CLASSIFIER:weren’t
+CLASSIFIER:will never
+CLASSIFIER:will not
+CLASSIFIER:without
+REGEX:won&\#[0-9]+;t
+REGEX:won&amp;\#[0-9]+;t
+CLASSIFIER:won't
+REGEX:won\'t
+CLASSIFIER:wont
+CLASSIFIER:won’t
+CLASSIFIER:would never
+CLASSIFIER:would not
+CLASSIFIER:would not have
+CLASSIFIER:wouldn&\#8217;t
+REGEX:wouldn&\#[0-9]+;t
+REGEX:wouldn&amp;\#[0-9]+;t
+CLASSIFIER:wouldn't
+REGEX:wouldn\'t
+CLASSIFIER:wouldnt
+CLASSIFIER:wouldn’t
+CLASSIFIER:wasnt
+CLASSIFIER:wasn't

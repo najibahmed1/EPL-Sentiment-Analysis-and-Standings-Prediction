@@ -1,0 +1,1 @@
+C_CONCEPT:nlpNegation _c{nlpLoseTerms}

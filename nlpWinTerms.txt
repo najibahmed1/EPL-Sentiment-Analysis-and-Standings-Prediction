@@ -1,0 +1,4 @@
+CONCEPT::win@
+CONCEPT:victory@
+CONCEPT:victorious
+CONCEPT:dominate@

@@ -1,0 +1,2 @@
+CONCEPT:nlpLoseTerms
+REMOVE_ITEM:(ALIGNED, "nlpLoseNegated","_c{nlpLose}")

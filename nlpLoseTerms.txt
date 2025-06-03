@@ -1,0 +1,5 @@
+CONCEPT:lose@
+CONCEPT:loss@
+CONCEPT:lost@
+CONCEPT:loser@
+CONCEPT:defeat@

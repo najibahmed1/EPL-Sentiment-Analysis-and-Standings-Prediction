@@ -1,0 +1,35 @@
+CLASSIFIER: Impressive  
+CLASSIFIER: Brilliant  
+CLASSIFIER: Amazing  
+CLASSIFIER: Prolific  
+CLASSIFIER: Skillful  
+CLASSIFIER: Incredible  
+CLASSIFIER: Ambitious  
+CLASSIFIER: Authentic  
+CLASSIFIER: Accomplished  
+CLASSIFIER: Adaptable  
+CLASSIFIER: Assertive  
+CLASSIFIER: Audacious  
+CLASSIFIER: Assured  
+CLASSIFIER: Attentive  
+CLASSIFIER: Commanding  
+CLASSIFIER: Clean sheet  
+CLASSIFIER: Victory  
+CLASSIFIER: Champion  
+CLASSIFIER: Top scorer  
+CLASSIFIER: Assist  
+CLASSIFIER: Clinical  
+CLASSIFIER: Dominant  
+CLASSIFIER: Promotion  
+CLASSIFIER: Winner  
+CLASSIFIER: Leader  
+CLASSIFIER: Masterclass  
+CLASSIFIER: Unstoppable  
+CLASSIFIER: Solid  
+CLASSIFIER: World-class  
+CLASSIFIER: Elite  
+CLASSIFIER: Professional  
+CLASSIFIER: Composed  
+CLASSIFIER: Consistent  
+CLASSIFIER: Dynamic  
+CLASSIFIER: Energetic
